@@ -1,0 +1,6 @@
+@article{REPO276,
+    author = "Oh, Jaehoon and Kim, Sangmook and Yun, Se-Young",
+    journal = "arXiv preprint arXiv:2106.06042",
+    title = "{FedBABU: Towards Enhanced Representation for Federated Image Classification}",
+    year = "2021"
+}
